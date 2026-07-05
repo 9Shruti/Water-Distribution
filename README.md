@@ -23,3 +23,6 @@ A full-stack PHP & MySQL web application for water distribution.
 3. Import the SQL file into phpMyAdmin.
 4. Start Apache and MySQL.
 5. Open http://localhost/E-Commerce-Water-Distribution/
+
+## Author
+Shruti Kadiya
